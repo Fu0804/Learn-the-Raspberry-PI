@@ -96,4 +96,5 @@ How I learn Raspberry PI from 0
 <img src="https://github.com/Fu0804/Learn-the-Raspberry-PI/assets/151499353/90281f14-1c9c-45fc-8592-d3240e447baa">
 </div>
 
-
+2、连接屏幕HDMI线、电源线、鼠标及键盘、散热片或散热风扇  
+3、连接WiFi（直接点击图形化界面WiFi图标即可连接）
